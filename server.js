@@ -13,3 +13,8 @@ app.use(express.json());
 app.get("/notes", (req, res) => {
     res.sendFile(path.join(__dirname, "/Develop/public/notes.html"));
 });
+
+app.get("/api/notes", (req, res) => {
+    res.sendFile(path.join(__dirname, "/Develop/db/db.json"));    
+});
+
