@@ -1,4 +1,6 @@
-# Note Taker 5643
+# Note Taker 5000
+
+## App Deployed [Here](https://note-taker-5643.herokuapp.com/)
 
 ## User Story
 AS A small business owner<br>
@@ -20,7 +22,7 @@ THEN that note appears in the right-hand column<br>
 WHEN I click on the Write icon in the navigation at the top of the page<br>
 THEN I am presented with empty fields to enter a new note title and the note’s text in the right-hand column
 
-## Github Repo
-https://github.com/jdwerz83/note_taker_5000
+## Github Repo [Here](https://github.com/jdwerz83/note_taker_5000)
+
 
 ## Made by [Jonathan Werz](https://github.com/jdwerz83)
